@@ -59,13 +59,6 @@ body {
 }
 
 /* --- STYLE 1: LOCK SCREEN --- */
-/* Modifikasi layout lock screen agar menyusun rapi dari atas */
-#lock-screen {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-}
-
 .lock-header {
     text-align: center;
     margin-top: 10px;
